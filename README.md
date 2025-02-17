@@ -1,10 +1,8 @@
-<img align="left" height="300" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="left" height="250" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
 ### Tomás Carreón Casarrubias
-
-###
 
 <p align="left">Soy originario del estado de Guerrero, pero actualmente resido en la ciudad de Tijuana. Me considero una persona apasionada por la tecnología, con sólidos conocimientos en informática y programación. Soy digno de confianza, responsable y con una gran disposición para seguir aprendiendo y creciendo profesionalmente.
 Me destaco por mi capacidad de trabajo tanto de manera independiente como en equipo, aportando siempre soluciones eficientes y creativas. Tengo experiencia en el desarrollo de software, administración de servidores y gestión de bases de datos, así como en la resolución de problemas técnicos.
@@ -12,13 +10,12 @@ Me destaco por mi capacidad de trabajo tanto de manera independiente como en equ
 
 ###
 
-<p align="left"></p>
+<p align="left">Me destaco por mi capacidad de trabajo tanto de manera independiente como en equipo, aportando siempre soluciones eficientes y creativas. Tengo experiencia en el desarrollo de software, administración de servidores y gestión de bases de datos, así como en la resolución de problemas técnicos.
+</p>
 
-##
+###
 
-<p align="left"></p>
-
-##
+<br clear="both">
 
 ## Redes sociales y contacto:
 
