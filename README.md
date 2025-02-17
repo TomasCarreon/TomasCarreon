@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Tomás Carreón Casarrubias</h2>
+### Tomás Carreón Casarrubias
 
 ###
 
@@ -14,9 +14,13 @@ Me destaco por mi capacidad de trabajo tanto de manera independiente como en equ
 
 <p align="left"></p>
 
-###
+##
 
-<p align="left">Redes sociales y contacto:</p>
+<p align="left"></p>
+
+##
+
+## Redes sociales y contacto:
 
 ###
 
@@ -33,10 +37,10 @@ Me destaco por mi capacidad de trabajo tanto de manera independiente como en equ
   <a href="#" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="65" height="40" alt="instagram logo"  />
   </a>
-  <a href="tomas.carreonc24@gmail.com" target="_blank">
+  <a href="mailto:tomas.carreonc24@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="40" alt="gmail logo"  />
   </a>
-  <a href="tom.carreon_96@hotmail.com" target="_blank">
+  <a href="mailto:tom.carreon_96@hotmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="65" height="40" alt="microsoft-outlook logo"  />
   </a>
   <a href="#" target="_blank">
@@ -44,11 +48,7 @@ Me destaco por mi capacidad de trabajo tanto de manera independiente como en equ
   </a>
 </div>
 
-###
-
-<h4 align="left">Habilidades:</h4>
-
-###
+## Habilidades:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
