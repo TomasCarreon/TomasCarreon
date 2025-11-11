@@ -1,133 +1,75 @@
-<img align="left" height="250" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
-###
 
-### Tomás Carreón Casarrubias
-
-<p align="left">Soy originario del estado de Guerrero, pero actualmente resido en la ciudad de Tijuana. Me considero una persona apasionada por la tecnología, con sólidos conocimientos en informática y programación. Soy digno de confianza, responsable y con una gran disposición para seguir aprendiendo y creciendo profesionalmente.
-Me destaco por mi capacidad de trabajo tanto de manera independiente como en equipo, aportando siempre soluciones eficientes y creativas. Tengo experiencia en el desarrollo de software, administración de servidores y gestión de bases de datos, así como en la resolución de problemas técnicos.
-</p>
-
-###
-
-<p align="left">Me destaco por mi capacidad de trabajo tanto de manera independiente como en equipo, aportando siempre soluciones eficientes y creativas. Tengo experiencia en el desarrollo de software, administración de servidores y gestión de bases de datos, así como en la resolución de problemas técnicos.
-</p>
-
-###
-
-<br clear="both">
-
-## Redes sociales y contacto:
-
-###
-
-<p align="left"></p>
-
-###
-
-<br clear="both">
 
 <div align="center">
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="65" height="40" alt="facebook logo"  />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="65" height="40" alt="instagram logo"  />
-  </a>
-  <a href="mailto:tomas.carreonc24@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="40" alt="gmail logo"  />
-  </a>
-  <a href="mailto:tom.carreon_96@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="65" height="40" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="40" alt="linkedin logo"  />
-  </a>
+  <img src="https://i.imgflip.com/65efzo.gif" alt="GIF" width="180" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.15); margin-bottom: 10px;" />
+  <h1 style="margin: 0; font-size: 2.2em; font-weight: bold; color: #2d3748;">Tomás Carreón Casarrubias</h1>
+  <p style="text-align: justify; font-size: 1.1em; color: #4a5568; max-width: 600px; margin: 10px auto 0 auto;">
+    Originario de Guerrero y residente en Tijuana, soy un apasionado de la tecnología con experiencia en desarrollo de software, administración de servidores y gestión de bases de datos. Me caracterizo por mi responsabilidad, ética profesional y constante deseo de aprender. Disfruto resolver problemas complejos y aportar soluciones creativas, tanto de forma independiente como colaborando en equipo.
+  </p>
 </div>
 
-## Habilidades:
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="40" alt="centos logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
-</div>
 
-###
+## 🚀 Proyectos Destacados
 
-<p align="left">**************************************************************************************************************************************************************************</p>
+- **Llave BC** – Colaboración y desarrollo en la plataforma de inicio de sesión único, integración de autenticación OAuth2.
 
-###
+- **Sistema de Asistencia a Eventos** – Plataforma web para el registro y control de asistencia en eventos empresariales y académicos. Incluye escaneo de QR y panel de administración. 
 
-<br clear="both">
+- **Sistema de Gestión Escolar** – Plataforma web para administración académica y control escolar, con módulos de inscripciones, calificaciones y comunicación con padres. 
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/TomasCarreon/count.svg?"  />
-</div>
+---
 
-###
+
+## 🎓 Educación y Certificaciones
+
+- Ingenierio en Tecnologías de la Información
+- Cursos de especialización en desarrollo web y móvil
+
+---
+
+
+## 💡 Intereses y Tecnologías Favoritas
+
+- Inteligencia Artificial, DevOps, Ciberseguridad
+- Desarrollo móvil y web
+- Automatización y cloud computing
+
+---
+
+
+## 🌐 Redes y Contacto
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tomascarreon" target="_blank"><strong>LinkedIn</strong></a> |
+  <a href="mailto:tomas.carreonc24@gmail.com" target="_blank"><strong>Gmail</strong></a> |
+  <a href="mailto:tom.carreon_96@hotmail.com" target="_blank"><strong>Outlook</strong></a>
+</p>
+
+
+## 🛠️ Habilidades Técnicas
+
+<table align="center">
+  <tr>
+    <td><strong>Lenguajes</strong></td>
+    <td>Java, Python, JavaScript, Dart, PHP</td>
+  </tr>
+  <tr>
+    <td><strong>Frameworks</strong></td>
+    <td>Laravel, Django, Flutter, Bootstrap</td>
+  </tr>
+  <tr>
+    <td><strong>Bases de datos</strong></td>
+    <td>MySQL, PostgreSQL, MongoDB</td>
+  </tr>
+  <tr>
+    <td><strong>DevOps & Cloud</strong></td>
+    <td>Linux, Ubuntu, AWS, Google Cloud, Git, GitHub</td>
+  </tr>
+</table>
+
+
+---
+
