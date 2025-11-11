@@ -1,16 +1,8 @@
 
 
+# 🧑‍💻 Sobre mí
 
-<div align="center">
-  <img src="https://i.imgflip.com/65efzo.gif" alt="GIF" width="180" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.15); margin-bottom: 10px;" />
-  <h1 style="margin: 0; font-size: 2.2em; font-weight: bold; color: #2d3748;">Tomás Carreón Casarrubias</h1>
-  <p style="text-align: justify; font-size: 1.1em; color: #4a5568; max-width: 600px; margin: 10px auto 0 auto;">
-    Originario de Guerrero y residente en Tijuana, soy un apasionado de la tecnología con experiencia en desarrollo de software, administración de servidores y gestión de bases de datos. Me caracterizo por mi responsabilidad, ética profesional y constante deseo de aprender. Disfruto resolver problemas complejos y aportar soluciones creativas, tanto de forma independiente como colaborando en equipo.
-  </p>
-</div>
-
----
-
+Hola, soy Tomás Carreón Casarrubias. Originario de Guerrero y residente en Tijuana, soy un apasionado de la tecnología con experiencia en desarrollo de software, administración de servidores y gestión de bases de datos. Me caracterizo por mi responsabilidad, ética profesional y constante deseo de aprender. Disfruto resolver problemas complejos y aportar soluciones creativas, tanto de forma independiente como colaborando en equipo.
 
 ## 🚀 Proyectos Destacados
 
