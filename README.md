@@ -3,14 +3,15 @@
 # 🧑‍💻 Sobre mí
 
 Hola, soy Tomás Carreón Casarrubias. Originario de Guerrero y residente en Tijuana, soy un apasionado de la tecnología con experiencia en desarrollo de software, administración de servidores y gestión de bases de datos. Me caracterizo por mi responsabilidad, ética profesional y constante deseo de aprender. Disfruto resolver problemas complejos y aportar soluciones creativas, tanto de forma independiente como colaborando en equipo.
+ 
+Apasionado por la innovación y la tecnología, me dedico a impulsar soluciones creativas que generen un impacto positivo. Transformo ideas en productos prácticos mediante trabajo colaborativo y aprendizaje constante.
+
 
 ## 🚀 Proyectos Destacados
 
 - **Llave BC** – Colaboración y desarrollo en la plataforma de inicio de sesión único, integración de autenticación OAuth2.
 
 - **Sistema de Asistencia a Eventos** – Plataforma web para el registro y control de asistencia en eventos empresariales y académicos. Incluye escaneo de QR y panel de administración. 
-
-- **Sistema de Gestión Escolar** – Plataforma web para administración académica y control escolar, con módulos de inscripciones, calificaciones y comunicación con padres. 
 
 ---
 
